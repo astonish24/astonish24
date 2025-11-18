@@ -67,13 +67,13 @@ Some of my recent projects involve large scale production ML systems and recomme
   <img src="https://github-readme-stats.vercel.app/api?username=astonish24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Richard's GitHub stats" />
 </a>
 
-<a href="https://github.com/astonish24">
+<!-- <a href="https://github.com/astonish24">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=astonish24&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 <a href="https://github.com/astonish24">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=astonish24&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+</a> -->
 
 <a href="https://github.com/astonish24" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astonish24&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
