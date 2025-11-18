@@ -17,7 +17,7 @@ Some of my recent projects involve large scale production ML systems and recomme
 **Machine Learning and Data**
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/imgres?q=python%20image%20svg&imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-vector%2Fvector-illustration-icon-python-programming-250nw-1405339748.jpg&imgrefurl=https%3A%2F%2Ffreesvg.org%2F387&docid=WApWNQ9t13rXKM&tbnid=s8Wdqy0kToZMzM&vet=12ahUKEwj_s6iTzPyQAxVCGVkFHQBEKK0QM3oECBwQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwj_s6iTzPyQAxVCGVkFHQBEKK0QM3oECBwQAA" width="36" height="36" alt="Python" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" width="36" height="36" alt="Apache Spark" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" /></a>
