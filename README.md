@@ -43,9 +43,9 @@ Some of my recent projects involve large scale production ML systems and recomme
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG" target="_blank" rel="noreferrer">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.pngfind.com/pngs/m/550-5508781_png-file-svg-logo-github-transparent-png.png" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" width="32" height="32" />
  </picture>
 </a>
 </p>
