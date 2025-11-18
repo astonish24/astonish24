@@ -27,8 +27,8 @@ Some of my recent projects involve large scale production ML systems and recomme
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png" width="36" height="36" alt="Git" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/361368/terminal-linux.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.pngfind.com/pngs/m/307-3079051_blockapps-partners-with-google-cloud-platform-to-provide.png" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
 ### Socials
