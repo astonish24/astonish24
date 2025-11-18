@@ -34,17 +34,17 @@ Some of my recent projects involve large scale production ML systems and recomme
 ### Socials
 
 <p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noreferrer">
+<a href="https://github.com/astonish24" target="_blank" rel="noreferrer">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
  </picture>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/richard-annan-pmp-77690b24/" target="_blank" rel="noreferrer">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.pngfind.com/pngs/m/550-5508781_png-file-svg-logo-github-transparent-png.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" />
   <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" width="32" height="32" />
  </picture>
 </a>
