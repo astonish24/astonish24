@@ -36,9 +36,9 @@ Some of my recent projects involve large scale production ML systems and recomme
 <p align="left">
 <a href="https://github.com/astonish24" target="_blank" rel="noreferrer">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.pngfind.com/pngs/m/550-5508781_png-file-svg-logo-github-transparent-png.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.pngfind.com/pngs/m/550-5508781_png-file-svg-logo-github-transparent-png.png" />
+  <img src="https://www.pngfind.com/pngs/m/550-5508781_png-file-svg-logo-github-transparent-png.png" width="32" height="32" />
  </picture>
 </a>
 <a href="https://www.linkedin.com/in/richard-annan-pmp-77690b24/" target="_blank" rel="noreferrer">
