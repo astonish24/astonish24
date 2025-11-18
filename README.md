@@ -53,7 +53,7 @@ Some of my recent projects involve large scale production ML systems and recomme
 ## Research Projects
 
 - [Federated Learning with Multi-Teacher Knowledge Distillation for COVID-19 Detection](https://github.com/astonish24/QinggeLab-ACMBCB-24)
-- [Federated FL with Ensemble Weighting and Knowledge Distillation](./projects/federated-ensemble-kd-covid/README.md)
+- [Federated FL with Ensemble Weighting and Knowledge Distillation](https://github.com/astonish24/QinggeLab-AFKD-IKDEFL)
 - [Generative AI for Protein Scaffold Filling](./projects/generative-protein-scaffold/README.md)
 - [Convolutional Denoising Autoencoder for Protein Scaffold Filling](./projects/cda-protein-scaffold/README.md)
 - [Machine Learning Models for Phenotype Prediction from Genotype](./projects/phenotype-from-genotype-ml/README.md)
