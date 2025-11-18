@@ -10,7 +10,7 @@ Some of my recent projects involve large scale production ML systems and recomme
 
 * 🌍  I'm based in Greensboro, NC  
 * ✉️  You can contact me at [Richyannan24@gmail.com](mailto:Richyannan24@gmail.com)  
-* 💼  Connect with me on LinkedIn: `your-linkedin-url-here`  
+* 💼  Connect with me on LinkedIn: [`your-linkedin-url-here`](https://www.linkedin.com/in/richard-annan-pmp-77690b24/)  
 
 ### Skills
 
