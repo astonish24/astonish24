@@ -50,6 +50,15 @@ Some of my recent projects involve large scale production ML systems and recomme
 </a>
 </p>
 
+## Research Projects
+
+- [Federated Learning with Multi-Teacher Knowledge Distillation for COVID-19 Detection](./projects/fl-mtkd-covid/README.md)
+- [Federated FL with Ensemble Weighting and Knowledge Distillation](./projects/federated-ensemble-kd-covid/README.md)
+- [Generative AI for Protein Scaffold Filling](./projects/generative-protein-scaffold/README.md)
+- [Convolutional Denoising Autoencoder for Protein Scaffold Filling](./projects/cda-protein-scaffold/README.md)
+- [Machine Learning Models for Phenotype Prediction from Genotype](./projects/phenotype-from-genotype-ml/README.md)
+- [Generalized Deep Learning Models for COVID-19 Detection with Transfer and Continual Learning](./projects/generalized-covid-ct-models/README.md)
+
 ### Badges
 
 <b>My GitHub Stats</b>
