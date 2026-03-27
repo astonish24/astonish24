@@ -51,14 +51,15 @@ Some of my recent projects involve large scale production ML systems and recomme
 </p>
 
 ## Research Projects
-
+- [BioAI Lab Project Contributions](https://github.com/astonish24/RannanProjects-codes/tree/main)
+<!--
 - [Federated Learning with Multi-Teacher Knowledge Distillation for COVID-19 Detection](https://github.com/astonish24/QinggeLab-ACMBCB-24)
 - [Federated FL with Ensemble Weighting and Knowledge Distillation](https://github.com/astonish24/QinggeLab-AFKD-IKDEFL)
 - [Generative AI for Protein Scaffold Filling](https://github.com/astonish24/QinggeLab-GenAI4ProteinScafflod/tree/main)
 - [Convolutional Denoising Autoencoder for Protein Scaffold Filling](./projects/cda-protein-scaffold/README.md)
 - [Machine Learning Models for Phenotype Prediction from Genotype](./projects/phenotype-from-genotype-ml/README.md)
 - [Generalized Deep Learning Models for COVID-19 Detection with Transfer and Continual Learning](./projects/generalized-covid-ct-models/README.md)
-
+-->
 ## Software Development Projects
 
 - [Aggies Lost and Found (ALFapp) is a mobile application designed for Collge students to report, search, and recover lost items on campus](https://github.com/astonish24/alfApp-rannan)
