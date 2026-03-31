@@ -52,7 +52,7 @@ Some of my recent projects involve large scale production ML systems and recomme
 
 ## Research Projects
 - [BioAI Lab Project Contributions](https://github.com/astonish24/RannanProjects-codes/tree/main)
-- - [EBEW Center Project Contributions](https://github.com/astonish24/RannanProjects-codes-EBEWCenter)
+- [EBEW Center Project Contributions](https://github.com/astonish24/RannanProjects-codes-EBEWCenter)
 <!--
 - [Federated Learning with Multi-Teacher Knowledge Distillation for COVID-19 Detection](https://github.com/astonish24/QinggeLab-ACMBCB-24)
 - [Federated FL with Ensemble Weighting and Knowledge Distillation](https://github.com/astonish24/QinggeLab-AFKD-IKDEFL)
