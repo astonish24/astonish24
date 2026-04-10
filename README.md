@@ -50,7 +50,7 @@ Some of my recent projects involve large scale production ML systems and recomme
 </a>
 </p>
 
-## Research Projects
+## AI/ ML Projects
 - [BioAI Lab Project Contributions](https://github.com/astonish24/RannanProjects-codes/tree/main)
 - [EBEW Center Project Contributions](https://github.com/astonish24/RannanProjects-codes-EBEWCenter)
 <!--
