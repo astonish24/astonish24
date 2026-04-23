@@ -12,6 +12,21 @@ Some of my recent projects involve large scale production ML systems and recomme
 * ✉️  You can contact me at [Richyannan24@gmail.com](mailto:Richyannan24@gmail.com)  
 * 💼  Connect with me on LinkedIn: [`richard-annan-pmp-77690b24`](https://www.linkedin.com/in/richard-annan-pmp-77690b24/)  
 
+## AI/ ML Projects
+- [BioAI Lab Project Contributions](https://github.com/astonish24/RannanProjects-codes/tree/main)
+- [EBEW Center Project Contributions](https://github.com/astonish24/RannanProjects-codes-EBEWCenter)
+<!--
+- [Federated Learning with Multi-Teacher Knowledge Distillation for COVID-19 Detection](https://github.com/astonish24/QinggeLab-ACMBCB-24)
+- [Federated FL with Ensemble Weighting and Knowledge Distillation](https://github.com/astonish24/QinggeLab-AFKD-IKDEFL)
+- [Generative AI for Protein Scaffold Filling](https://github.com/astonish24/QinggeLab-GenAI4ProteinScafflod/tree/main)
+- [Convolutional Denoising Autoencoder for Protein Scaffold Filling](./projects/cda-protein-scaffold/README.md)
+- [Machine Learning Models for Phenotype Prediction from Genotype](./projects/phenotype-from-genotype-ml/README.md)
+- [Generalized Deep Learning Models for COVID-19 Detection with Transfer and Continual Learning](./projects/generalized-covid-ct-models/README.md)
+-->
+## Software Development Projects
+
+- [Aggies Lost and Found (ALFapp) is a mobile application designed for Collge students to report, search, and recover lost items on campus](https://github.com/astonish24/alfApp-rannan)
+
 ### Skills
 
 **Machine Learning and Data**
@@ -50,20 +65,6 @@ Some of my recent projects involve large scale production ML systems and recomme
 </a>
 </p>
 
-## AI/ ML Projects
-- [BioAI Lab Project Contributions](https://github.com/astonish24/RannanProjects-codes/tree/main)
-- [EBEW Center Project Contributions](https://github.com/astonish24/RannanProjects-codes-EBEWCenter)
-<!--
-- [Federated Learning with Multi-Teacher Knowledge Distillation for COVID-19 Detection](https://github.com/astonish24/QinggeLab-ACMBCB-24)
-- [Federated FL with Ensemble Weighting and Knowledge Distillation](https://github.com/astonish24/QinggeLab-AFKD-IKDEFL)
-- [Generative AI for Protein Scaffold Filling](https://github.com/astonish24/QinggeLab-GenAI4ProteinScafflod/tree/main)
-- [Convolutional Denoising Autoencoder for Protein Scaffold Filling](./projects/cda-protein-scaffold/README.md)
-- [Machine Learning Models for Phenotype Prediction from Genotype](./projects/phenotype-from-genotype-ml/README.md)
-- [Generalized Deep Learning Models for COVID-19 Detection with Transfer and Continual Learning](./projects/generalized-covid-ct-models/README.md)
--->
-## Software Development Projects
-
-- [Aggies Lost and Found (ALFapp) is a mobile application designed for Collge students to report, search, and recover lost items on campus](https://github.com/astonish24/alfApp-rannan)
 ### Badges
 
 <b>My GitHub Stats</b>
