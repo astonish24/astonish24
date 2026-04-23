@@ -27,6 +27,9 @@ Some of my recent projects involve large scale production ML systems and recomme
 
 - [Aggies Lost and Found (ALFapp) is a mobile application designed for Collge students to report, search, and recover lost items on campus](https://github.com/astonish24/alfApp-rannan)
 
+## Full-stack Database Design Projects
+- [Student Professionalism Tracker (SPT): A fullstack Database Design](https://github.com/astonish24/rannan-spt-proj/blob/main/README.md)
+
 ### Skills
 
 **Machine Learning and Data**
