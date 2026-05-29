@@ -1,10 +1,10 @@
 Hi 👋 My name is Richard Annan
 ==============================
 
-Data Scientist · PhD Candidate in Computer Science
+Data Scientist · PhD in Computer Science
 --------------------------------------------------
 
-I am Richard, a Data Scientist and Computer Science PhD candidate based in Greensboro, NC. My work focuses on deep learning, federated learning, recommender systems and bioinformatics. I enjoy building end to end machine learning solutions, from data exploration and feature engineering to model development, deployment and monitoring.
+I am Richard, a Data Scientist and Computer Science PhD based in Greensboro, NC. My work focuses on deep learning, federated learning, recommender systems and bioinformatics. I enjoy building end to end machine learning solutions, from data exploration and feature engineering to model development, deployment and monitoring.
 
 Some of my recent projects involve large scale production ML systems and recommender models under NDA, so this GitHub highlights open source experiments, research prototypes and learning resources.
 
